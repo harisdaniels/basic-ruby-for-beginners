@@ -1,0 +1,6 @@
+Jim, Back End
+Andy, Front End
+Kelly, UI Designer
+Haris, Quality Assurance
+Amy, Manager
+Molly, DevOps
